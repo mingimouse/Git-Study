@@ -2,7 +2,7 @@
 
 ## 01. Git 소개
 
-<img src="./img/git0101.png" width="30%" height="30%">
+<img src="./img/git0101.png" width="20%" height="20%">
 
 `Git`은 **Linus Torvalds**가 개발한 버전 관리 시스템(Version Control System)이다.<br>
 
