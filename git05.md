@@ -15,9 +15,9 @@ Git을 사용하면서, git status 명령의 출력 메시지를 해석해 현�
 ```mermaid
 sequenceDiagram
 	untracked->>staged: 스테이징
-	modified-->>staged: 스테이징
+	modified->>staged: 스테이징
 	staged->>unmodified: 커밋
-	unmodified-->>modified: 파일 수정
+	unmodified->>modified: 파일 수정
 	
 ```
 
