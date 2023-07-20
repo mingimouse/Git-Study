@@ -77,7 +77,7 @@ flowchart LR
 	커밋5 -.git revert 커밋3.-> 커밋3
 ```
 
-### I. git reset --hard
+### I. git reset --hard (이후 커밋 삭제)
 
 ```bash
 git reset --hard 복사한 커밋 해시
@@ -89,7 +89,7 @@ git reset --hard 복사한 커밋 해시
 
 <br>
 
-### II. git revert
+### II. git revert (이후 커밋 보관)
 
 ```bash
 git revert 복사한 커밋 해시
