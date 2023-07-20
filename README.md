@@ -22,7 +22,7 @@
 - [버전 생성하기](./git04.md)
 - [버전 확인하기](./git05.md)
 - [버전 되돌리기](./git06.md)
-- [버전 제외하기(.gitignore)](./git07lmd)
+- [버전 제외하기(.gitignore)](./git07.md)
 
 ### III. Git 브랜치
 
