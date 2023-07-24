@@ -11,6 +11,8 @@
 
 ## Table of Contents
 
+[]
+
 ### I. Git 이란?
 
 - [Git 소개 및 설치](./git01.md)
@@ -24,12 +26,12 @@
 - [버전 되돌리기](./git06.md)
 - [버전 제외하기(.gitignore)](./git07.md)
 
-### III. GitHub
+### III. Git 브랜치
 
-- 
+- [Git에서 브랜치 관리하기](./git08.md)
+- [cherry-pick 병합](./git09.md)
 
-### IV. 브랜치
+### IV. GitHub 백업, 협업
 
-- Git 브랜치
-
-### 
+- [GitHub 백업하기](./git10.md)
+- [GitHub 협업하기](./git11.md)
