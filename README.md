@@ -24,12 +24,12 @@
 - [버전 되돌리기](./git06.md)
 - [버전 제외하기(.gitignore)](./git07.md)
 
-### III. Git 브랜치
+### III. GitHub
 
+- 
 
+### IV. 브랜치
 
-### IV. GitHub 백업
+- Git 브랜치
 
-
-
-### V. GitHub 협업
+### 
