@@ -25,7 +25,7 @@ stateDiagram
 	direction LR
 	state 작업트리{
 		direction LR
-		[*] --> 스테이지: 스테이징
+		[*] --> .git: 스테이징
 		state .git{
 			direction LR
 			스테이지 --> 저장소: 커밋
