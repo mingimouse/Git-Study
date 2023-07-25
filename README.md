@@ -29,9 +29,7 @@
 ### III. Git 브랜치
 
 - [Git에서 브랜치 관리하기](./git08.md)
-- [cherry-pick 병합](./git09.md) (업로드 아직 안함)
 
 ### IV. GitHub 백업, 협업
 
-- [GitHub 백업하기](./git10.md)
-- [GitHub 협업하기](./git11.md) (업로드 아직 안함)
+- [GitHub 백업 & 협업](./git09.md)

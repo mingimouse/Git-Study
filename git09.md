@@ -1,4 +1,4 @@
-# GitHub 백업하기
+# GitHub 백업 & 협업
 
 ## 01. 지역 저장소 & 원격 저장소
 
@@ -148,7 +148,20 @@ git merge origin/main	# 병합
 
 ---
 
+## 08. Fork & Pull Request
 
+```mermaid
+flowchart LR
+	id1[(Someone's repo)]--Fork-->id2[(My repo)]--clone-->id3[(my local)]
+	id3[(my local)]--commit-->id2[(My repo)]--Pull Request-->id1[(Someone's repo)]
+```
 
+`Fork`:  다른 사람의 저장소에 있는 리포지토리를 내 원격 저장소로 가져오는 것이다.<br>
 
+- `Fork`: 다른 사람의 저장소를 내 원격 저장소에 복사<br>
 
+- `git clone`: 원격 저장소를 내 지역 저장소에 복사<br>
+
+`Pull Request (PR)`: 수정한 브랜치를 검토 후 병합(merge)해달라고 요청하는 것<br>
+
+---
