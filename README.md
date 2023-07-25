@@ -11,7 +11,7 @@
 
 ## Table of Contents
 
-<img src="./img/git0001.png" width="100%x">
+<img src="./img/git0001.png" width="100%">
 
 ### I. Git 이란?
 
