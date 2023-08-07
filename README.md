@@ -1,7 +1,7 @@
 # Git-Study
 **Subject**
 
-- **Git & GitHub** 스터디 | 2023.06 **HIPS** 스터디 | 2023.09~10 **HUST** 스터디
+- **Git & GitHub** 스터디 | 2023.06 **HIPS** 스터디
 
 **Contributor**
 
